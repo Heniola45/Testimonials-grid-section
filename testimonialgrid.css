@@ -115,6 +115,20 @@ img {
     
 }
 
+.image2 {
+    border: none;
+    padding-right: 64px;
+    padding-left: 0px;
+    margin-right: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    align-items: right; 
+    transform: scale(2.8);
+    padding-top: 8px;
+    opacity: 50%;
+}
+
 .profile-card {
     display: flex;
     align-items: center;
